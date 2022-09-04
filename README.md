@@ -1,11 +1,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=oducoelho&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oducoelho&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=oducoelho&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oducoelho&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
-<br><br>
 
+<br><br>
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
