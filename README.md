@@ -1,6 +1,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="left" style='display: flex; justify-content: space-between;'>
 <img width="450em" src="https://github-readme-stats.vercel.app/api?username=oducoelho&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oducoelho&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
