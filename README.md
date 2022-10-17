@@ -1,8 +1,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
-<img width="580em" src="https://github-readme-stats.vercel.app/api?username=oducoelho&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oducoelho&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="580em" src="https://github-readme-stats.vercel.app/api?username=oducoelho&show_icons=true&theme=vision-friendly-dark" alt="oducoelho's stats"/>
+<img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oducoelho&layout=compact&theme=vision-friendly-dark" alt="oducoelho's most languages"/>
 </p>
 
 <br><br>
