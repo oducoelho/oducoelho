@@ -1,9 +1,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p>
-<img width="580em" src="https://github-readme-stats.vercel.app/api?username=oducoelho&show_icons=true&theme=vision-friendly-dark" alt="oducoelho's stats"/>
-<img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oducoelho&layout=compact&theme=vision-friendly-dark" alt="oducoelho's most languages"/>
-</p>
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=oducoelho&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oducoelho&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true">
+
+</div>
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
