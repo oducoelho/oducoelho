@@ -14,15 +14,16 @@
   <img src="https://komarev.com/ghpvc/?username=oducoelho&style=for-the-badge&color=1d1f21"/>
   
 </div>
+
 ## Contact
 <p>
 <a href="https://twitter.com/du_coelho2" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-du_coelho2-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-du_coelho2-05122A?style=flat&logo=twitter&color=1d1f21" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/eduardo-coelho-568226207/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Eduardo Coelho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Eduardo Coelho-05122A?style=flat&logo=linkedin&color=1d1f21" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/oducoelho" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-oducoelho-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-oducoelho-05122A?style=flat&logo=instagram&color=1d1f21" alt="instagram"/>
 </a>
 </p>
