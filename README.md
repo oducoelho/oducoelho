@@ -7,6 +7,16 @@
 
 </div>
 </br>
+
+# Edaurdo Coelho
+
+## Hello guys 👋
+I'm a Full Stack developer, super passionate about programming, and currently studying more and more!
+
+ :purple_heart: &nbsp; Looking to collaborate on projects with React/Next/Node
+ <br/> :blush: &nbsp; I can help you with CSS, Styled Components, Stitches, HTML, React, Next.js, Node.js, and React Native
+ <br/> :computer: &nbsp; My stack: ReactJS, React Native, Next.js, Node.js and Typescript
+ <br/> 💬  &nbsp; About me: I always loved technology and I'm a born gamer 😎🎮!
   
 <div>
 
