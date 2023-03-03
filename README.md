@@ -18,6 +18,10 @@ I'm a Full Stack developer, super passionate about programming, and currently st
  <br/> :computer: &nbsp; My stack: ReactJS, React Native, Next.js, Node.js and Typescript
  <br/> 💬  &nbsp; About me: I always loved technology and I'm a born gamer 😎🎮!
   
+  
+## 🚀 My skills:
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,ts,html,css,js,sass,stitches,redux,nodejs,prisma)](https://skillicons.dev)
 <div>
 
   <a target="_blanck"> [![Linkedin](https://img.shields.io/badge/-LinkedIn-1d1f21?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-coelho-568226207/)</a>
