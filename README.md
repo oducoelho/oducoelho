@@ -21,7 +21,7 @@ I'm a Full Stack developer, super passionate about programming, and currently st
   
 ## 🚀 My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,ts,html,css,js,sass,stitches,redux,nodejs,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,ts,html,css,js,sass,redux,nodejs,prisma)](https://skillicons.dev)
 <div>
 
   <a target="_blanck"> [![Linkedin](https://img.shields.io/badge/-LinkedIn-1d1f21?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-coelho-568226207/)</a>
