@@ -1,3 +1,5 @@
+![logo em linha](https://github.com/oducoelho/oducoelho/assets/104034703/07438274-16d2-4fd5-b594-d3f0ede0c6cd)
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
