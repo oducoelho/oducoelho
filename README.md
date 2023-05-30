@@ -1,5 +1,6 @@
 ![logo em linha](https://github.com/oducoelho/oducoelho/assets/104034703/07438274-16d2-4fd5-b594-d3f0ede0c6cd)
 <img src="https://github.com/oducoelho/oducoelho/assets/104034703/07438274-16d2-4fd5-b594-d3f0ede0c6cd" width="100%" />
+![logo em linha](https://github.com/oducoelho/oducoelho/assets/104034703/962f2256-1479-43f2-b8ee-ec8357154675)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
