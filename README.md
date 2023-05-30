@@ -1,17 +1,5 @@
 ![logo em linha](https://github.com/oducoelho/oducoelho/assets/104034703/5f829b5d-20d5-4396-896c-4a14879b8e2c)
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=oducoelho&theme=dark&hide_border=true&include_all_commits=true&count_private=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oducoelho&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&text_color=fff&icon_color=fff&title_color=fff&bg_color=0d1117&show_icons=true">
-
-</div>
-</br>
-
-# Edaurdo Coelho
-
 ## Hello guys 👋
 I'm a Full Stack developer, super passionate about programming, and currently studying more and more!
 
