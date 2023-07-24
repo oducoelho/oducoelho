@@ -31,4 +31,3 @@ I'm a Full Stack developer, super passionate about programming, and currently st
  <img align="center" src="https://img.shields.io/badge/-oducoelho-05122A?style=flat&logo=instagram&color=1d1f21" alt="instagram"/>
 </a>
 </p>
-
